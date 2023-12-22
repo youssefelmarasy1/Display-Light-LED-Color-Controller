@@ -1,5 +1,5 @@
 /* 
- * File:   lab_1.c
+ * File:   LED_blink.c
  * Author: youss
  *
  * Created on October 6, 2022, 2:29 PM
@@ -171,5 +171,5 @@ int main(void) {
  
  
 
- return (EXIT_SUCCESS);
+ return (EXIT_SUCCESS); //succesfully exiting the program
 }
