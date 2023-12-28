@@ -44,8 +44,5 @@ The program initializes three output pins for the Red, Green, and Blue component
 3. Program the ATtiny13A using an AVR programmer.
 4. Power up the circuit and observe the LED changing colors based on the push button state.
 
-## Author
-- Youss (GitHub: [youss-ryad](https://github.com/youss-ryad))
-
 ## License
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
