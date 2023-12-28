@@ -48,4 +48,4 @@ The program initializes three output pins for the Red, Green, and Blue component
 - Youss (GitHub: [youss-ryad](https://github.com/youss-ryad))
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
