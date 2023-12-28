@@ -1,6 +1,6 @@
-# Display-Light-LED-Color-Controller
+# LED Blink Project (ATtiny13A)
 
-This simple AVR C project implements a color-changing LED using the ATtiny13A microcontroller. The LED cycles through different colors based on a push button's state.
+This simple AVR C project implemented in MPLABX IDE creates a color-changing LED using the ATtiny13A microcontroller. The LED cycles through different colors based on a push button's state.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
@@ -13,7 +13,7 @@ This simple AVR C project implements a color-changing LED using the ATtiny13A mi
 
 ## Prerequisites
 - AVR Microcontroller: ATtiny13A
-- AVR Toolchain
+- MPLABX IDE
 - AVR Programmer (e.g., USBasp)
 - RGB LED
 - Push Button
@@ -39,6 +39,13 @@ The program initializes three output pins for the Red, Green, and Blue component
   - PB4 (Pin 3): Push Button
 
 ## Compiling and Flashing
-1. Compile the C code using an AVR toolchain.
-2. Program the ATtiny13A using an AVR programmer.
-3. Power up the circuit and observe the LED changing colors based on the push button state.
+1. Open the MPLABX IDE project.
+2. Compile the C code using the IDE.
+3. Program the ATtiny13A using an AVR programmer.
+4. Power up the circuit and observe the LED changing colors based on the push button state.
+
+## Author
+- Youss (GitHub: [youss-ryad](https://github.com/youss-ryad))
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
