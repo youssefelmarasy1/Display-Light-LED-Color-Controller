@@ -40,10 +40,5 @@ The program initializes three output pins for the Red, Green, and Blue component
 
 ## Compiling and Flashing
 1. Compile the C code using an AVR toolchain.
-   ```bash
-   avr-gcc -g -mmcu=attiny13a -o LED_blink.elf LED_blink.c
 2. Program the ATtiny13A using an AVR programmer.
-```bash
-avrdude -c usbasp -p t13 -U flash:w:LED_blink.elf
-```
 3. Power up the circuit and observe the LED changing colors based on the push button state.
